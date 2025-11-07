@@ -1,0 +1,6 @@
+Abdullah 11 90 
+Mohiudin 12 67 
+Huzaifa 13 89 
+Ahmad 15 78
+Ahsan 99 98
+Rehan 18 77
